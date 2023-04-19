@@ -6,9 +6,9 @@ This project is meant to help me recall the basics of programming and to make fu
 
 This program creates an output of a list and prints it to the console.
 
-I created this program simply to remind myself how simple code can be.
+I created this program simply to show how minimalistic code can be.
 
-[Software Demo Video](http://youtube.link.goes.here)
+* [Software Demo Video](https://drive.google.com/file/d/1E3Uq_KGjGXG12fe-Bzoo5u_wXCDJXgCP/view?usp=sharing)
 
 # Development Environment
 
